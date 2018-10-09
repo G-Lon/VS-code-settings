@@ -1,6 +1,6 @@
 # VS-code-settings
 VS code设置
 
-Token：186a8d3178bd81d56d1e150020410d897c32c7c3
+Token：a2d1fc48f4dd0afc59d05591992814403c343f60
 
-Gist：6fc0ac901f73f02d48e6aa4c9cb15df3
+Gist：b78c48adc75f6f3012fd9eac610cf080
